@@ -7,6 +7,4 @@ I am constantly trying to gain experience in frontend, working with techonlogies
  * graphql
  * typescript
 
-If you would like to collaborate with me on a project, just write an e-mail to me . It s kluzniakkuba@gmail.com 😊
-
 
