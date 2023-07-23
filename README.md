@@ -5,16 +5,23 @@ Cover designed by [Freepik](https://www.freepik.com/free-vector/black-background
 
 ### About Me
 
-My adventure with programming began in 2018 . Then my first "Hello world" was created, as for the language it fell on JavaScript. And so over the years I develop this passion for programming with more and more different skills. I follow the principle of "The best-fitting programming language for the task" that's why you can find many of them on my repository. I am constantly learning and developing , and coding still surprises me 😎
+As a Computer Science student who embarked on a programming journey in 2018, I've honed my skills in both backend and front-end technologies, with a particular passion for backend development. My commitment to selecting the most appropriate programming language for each task has allowed me to become a flexible developer with a diverse skill set. Driven by the desire to apply my skills to innovative and impactful projects, my goal is to be a collaborative and resourceful asset within the tech industry. My continuous learning and growth are evident in my work, as seen in my repositories, and I am always prepared for the next exciting challenge in this ever-evolving field.
 
-### Tech stack
+### Skills & Expertise
 
-**Programming langues:**
+**Programming Paradigms & Design Principles:**  OOP, DDD / Clean Architecture, Design Patterns
 
-C++, Javascript, Typescript
+**Languages:** JavaScript ( TypeScript ), C++, Python
 
-**Libraries/Frameworks:**
+**Back-end:** Node.js, Express, Fastify, GraphQL, Prisma, tRPC, Socket.io
 
-React, Next.js, Astro.js, Prisma, Node.js, tRPC, GraphQL, Styled Componets, Tailwind
+**Databases:** PostgreSQL, mySQL
+
+**Testing:** Vitest ( unit, integration, e2e ), Cypress
+
+**Front-end:** React, Next.js, Astro.js, Redux, i18n, React Query, Styled Components, TailwindCSS
+
+**Tooling & DevOps:** Docker, git, Vite.js, Turborepo, stylelint, eslint, prettier, pino logger, docker-compose, postman, VS Code debugger, test coverage, DI/IoC inversify
+
 
 
