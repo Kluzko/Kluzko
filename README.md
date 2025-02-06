@@ -5,13 +5,13 @@ Cover designed by [Freepik](https://www.freepik.com/free-vector/black-background
 
 ### About Me
 
-As a Computer Science student who embarked on a programming journey in 2018, I've honed my skills in both backend and front-end technologies, with a particular passion for backend development. My commitment to selecting the most appropriate programming language for each task has allowed me to become a flexible developer with a diverse skill set. Driven by the desire to apply my skills to innovative and impactful projects, my goal is to be a collaborative and resourceful asset within the tech industry. My continuous learning and growth are evident in my work, as seen in my repositories, and I am always prepared for the next exciting challenge in this ever-evolving field.
+Just a dude who like to code :)
 
 ### Skills & Expertise
 
 **Programming Paradigms & Design Principles:**  OOP, DDD / Clean Architecture, Design Patterns
 
-**Languages:** JavaScript ( TypeScript ), C++, Python
+**Languages:** JavaScript ( TypeScript ), Python, Rust, Elixir
 
 **Back-end:** Node.js, Express, Fastify, GraphQL, Prisma, tRPC, Socket.io
 
